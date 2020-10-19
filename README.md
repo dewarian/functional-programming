@@ -1,4 +1,5 @@
 # Functional Programming
+<sup><sub>Nathan Bommezijn | 500778928 | Information Design | Tech Track | 19-10-2020</sup></sub>
 ---
 > Creating and researching visualisations for De Volkskrant
 

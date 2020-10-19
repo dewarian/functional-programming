@@ -5,25 +5,25 @@
 
 ## Description
 
-Within this course we will be tested on our skills for functional programming.   
-The assignment itself would be a data visualisation with [https://d3js.org/](D3js) with the data that is given to us.
+Within this course, This course will test us on our skills for functional programming.   
+The assignment itself would be a data visualization with [https://d3js.org/](D3js) with the data given to us.
 
 ## Partner
 
-With this course we will be collaborating with [De volkskrant](https://www.volkskrant.nl/) to create digital meaningful interactive data visualisations that the journalists potentionally use for internal research about the subject.
+With this course, we will be collaborating with [De volkskrant](https://www.volkskrant.nl/) to create digital meaningful interactive data visualizations that the journalists potentially use for internal research about the subject.
 
 ## Subject
-For our partner we will be researching the following hypotheses:
+For our partner, we will be researching the following hypotheses:
 > Hoe gaan verschillende gemeentes en plaatsen om met de auto in de stad?
 
-To what specifities we will hone into is up to us and will be updated on a later time when I have a more in-depth research about this particular subject.
+To what specificities we will hone into is up to us and will be updated later when I have more in-depth research about this particular subject.
 
 ## Goals
 
-For this course we will be developing with the following goals and subgoals in mind.
+For this course, we will be developing with the following goals and subgoals in mind.
 **TL;DR How to use libraries with the data and write documents.**
 1. Learn how to create with libraries
-2. Create interactive visualisations from external data
+2. Create interactive visualizations from external data
   * Read docs
   * Write docs
   * Manipulate elements

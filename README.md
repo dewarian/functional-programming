@@ -3,10 +3,17 @@
 ---
 > Creating and researching visualisations for De Volkskrant
 
+![de-volkskrant-logo](https://user-images.githubusercontent.com/13199349/96450148-1a044500-1216-11eb-8c79-05c99614468d.png)
+
+
 ## Description
 
 Within this course, This course will test us on our skills for functional programming.   
 The assignment itself would be a data visualization with [https://d3js.org/](D3js) with the data given to us.
+
+## How to install
+
+Soon™️
 
 ## Partner
 
@@ -36,8 +43,7 @@ _Goals are copied from the [assessment](https://github.com/cmda-tt/course-20-21/
 
 ## Research
 
-Data entry
-
+Soon™️
 
 ## License
 This repository is licensed as [MIT](license) by [Nathan Bommezijn](https://github.com/dewarian), 2020.

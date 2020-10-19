@@ -1,1 +1,42 @@
-func-prog
+# Functional Programming
+---
+> Creating and researching visualisations for De Volkskrant
+
+## Description
+
+Within this course we will be tested on our skills for functional programming.   
+The assignment itself would be a data visualisation with [https://d3js.org/](D3js) with the data that is given to us.
+
+## Partner
+
+With this course we will be collaborating with [De volkskrant](https://www.volkskrant.nl/) to create digital meaningful interactive data visualisations that the journalists potentionally use for internal research about the subject.
+
+## Subject
+For our partner we will be researching the following hypotheses:
+> Hoe gaan verschillende gemeentes en plaatsen om met de auto in de stad?
+
+To what specifities we will hone into is up to us and will be updated on a later time when I have a more in-depth research about this particular subject.
+
+## Goals
+
+For this course we will be developing with the following goals and subgoals in mind.
+**TL;DR How to use libraries with the data and write documents.**
+1. Learn how to create with libraries
+2. Create interactive visualisations from external data
+  * Read docs
+  * Write docs
+  * Manipulate elements
+  * Load external data
+  * Transform data
+  * Use SVG
+  * Use libraries
+
+_Goals are copied from the [assessment](https://github.com/cmda-tt/course-20-21/blob/master/pages/functional-programming/assessment.md#Goals)_
+
+## Research
+
+Data entry
+
+
+## License
+This repository is licensed as [MIT](license) by [Nathan Bommezijn](https://github.com/dewarian), 2020.

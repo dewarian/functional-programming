@@ -23,6 +23,7 @@ With this course, we will be collaborating with [De volkskrant](https://www.volk
 For our partner, we will be researching the following hypotheses:
 > Hoe gaan verschillende gemeentes en plaatsen om met de auto in de stad?
 
+The theme specifically is 'de auto in de stad'.
 To what specificities we will hone into is up to us and will be updated later when I have more in-depth research about this particular subject.
 
 ## Goals

@@ -1,0 +1,19 @@
+{
+  "name": "func-prog",
+  "version": "1.0.0",
+  "description": "HvA CMD Information Design TechTrack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewarian/functional-programming.git"
+  },
+  "author": "Nathan Bommezijn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dewarian/functional-programming/issues"
+  },
+  "homepage": "https://github.com/dewarian/functional-programming#readme"
+}

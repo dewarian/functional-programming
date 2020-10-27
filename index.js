@@ -1,24 +1,20 @@
+/* TO DO
+[] require dataset
+[] Zoom into column location (filter dataSet to a single column)
+[] clean a single value
+  [] convert coordinates to long lat
 
-// const fetch = require('node-fetch');
-// const dataSet = "./secret_data/Survey_Information_Design_clean-parsed.json";
-// let datRes;
+*/
+let dataSet = require('./secret_data/Survey_Information_Design_clean-parsed.json')
+console.log(getSpecificDataValue(0, "geboorteplaats"))
+testFunction(dataSet)
 
-// fetch(dataSet)
-//   .then(res => res.json())
-//   .then(data => dataRes = data)
-//   .then(() => console.log(datRes));
+function getSpecificDataValue(key, value) {
+  return dataSet[key][value]
+}
 
-
-  // console.log(`script has been loaded successfully`);
-  // let storeData;
-
-  // // Fetch local json file
-  // fetch("/secret_data/Survey_Information_Design_clean-parsed.json")
-  // .then(response => response.json())
-  // .then(data => storeData = data)
-  // .then(() => console.log(storeData));
-
-  // const surveyData = storeData;
-
-  // console.log(surveyData)
-
+function testFunction(object) {
+  for (const geboorteplaats of object) {
+    console.log(geboorteplaats)
+  }
+}

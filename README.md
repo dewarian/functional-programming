@@ -17,50 +17,14 @@ Soon™️
 
 ## Partner
 
-With this course, we will be collaborating with [De volkskrant](https://www.volkskrant.nl/) to create digital meaningful interactive data visualizations that the journalists potentially use for internal research about the subject.
+With this course, we will be collaborating with [De volkskrant](https://www.volkskrant.nl/) to create meaningful digital interactive data visualizations that the journalists potentially use for internal research about the subject.
 
 ## Subject
-For our partner, we will be researching the following hypotheses:
-> Hoe gaan verschillende gemeentes en plaatsen om met de auto in de stad?
+For our partner De Volkskrant, we will be researching the following theme: **_' The car in the city'_**.
 
-The theme specifically is 'de auto in de stad'.
-To what specificities we will hone into is up to us and will be updated later when I have more in-depth research about this particular subject.
+I will substantiate this particular theme with the data from RDW. This organization is the Netherlands Vehicle Authority in the mobility chain; they have kindly provided an open database in many categories or types.
 
-## Research
-
-### Question
-
-> How many Tesla's have been registered in the past year in comparison to other EV's?
-  * How many electric vehicle have been sold in 2020?
-  * why has Brand-X amount sold more than Tesla? _Price? availability?_
-  * Is there a correlation with the pandemic?
- 1. Are there new Tesla taxi's registered in 2020?
-
-  **required data**
-  https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2 
-
-> How many of the electric automotive vehicles have an action radius of 250km+ in the city
-
-  * When were those vehicles build?
-  * 
-
-**required data**
-
-## Goals
-
-For this course, we will be developing with the following goals and subgoals in mind.
-**TL;DR How to use libraries with the data and write documents.**
-1. Learn how to create with libraries
-2. Create interactive visualizations from external data
-  * Read docs
-  * Write docs
-  * Manipulate elements
-  * Load external data
-  * Transform data
-  * Use SVG
-  * Use libraries
-
-_Goals are copied from the [assessment](https://github.com/cmda-tt/course-20-21/blob/master/pages/functional-programming/assessment.md#Goals)_
+Later in the wiki, I will specify to what subject I will hone towards in my research.
 
 ## License
 This repository is licensed as [MIT](license) by [Nathan Bommezijn](https://github.com/dewarian), 2020.

@@ -26,6 +26,21 @@ For our partner, we will be researching the following hypotheses:
 The theme specifically is 'de auto in de stad'.
 To what specificities we will hone into is up to us and will be updated later when I have more in-depth research about this particular subject.
 
+## Research
+
+### Question
+
+> How many Tesla's have been registered in the past year in comparison to other EV's?
+  * How many electric vehicle have been sold in 2020?
+  * why has Brand-X amount sold more than Tesla? _Price? availability?_
+  * Is there a correlation with the pandemic?
+ 1. Are there new Tesla taxi's registered in 2020?
+
+  **required data**
+  https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2 
+
+> How many of the electric automotive vehicles have an action radius of 300km+ in the city
+
 ## Goals
 
 For this course, we will be developing with the following goals and subgoals in mind.
@@ -41,10 +56,6 @@ For this course, we will be developing with the following goals and subgoals in 
   * Use libraries
 
 _Goals are copied from the [assessment](https://github.com/cmda-tt/course-20-21/blob/master/pages/functional-programming/assessment.md#Goals)_
-
-## Research
-
-Soon™️
 
 ## License
 This repository is licensed as [MIT](license) by [Nathan Bommezijn](https://github.com/dewarian), 2020.

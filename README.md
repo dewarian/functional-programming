@@ -39,7 +39,12 @@ To what specificities we will hone into is up to us and will be updated later wh
   **required data**
   https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2 
 
-> How many of the electric automotive vehicles have an action radius of 300km+ in the city
+> How many of the electric automotive vehicles have an action radius of 250km+ in the city
+
+  * When were those vehicles build?
+  * 
+
+**required data**
 
 ## Goals
 

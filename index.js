@@ -21,3 +21,14 @@ fetch("/secret_data/Survey_Information_Design.json")
 
   console.log(surveyData)
 */
+
+
+/* 
+// sort names alphabetically
+let array = ["Anthony","Naomi","Sjors","Nadine","Shabier","Nathan"]
+array.sort(function (a, b) {
+      if (a < b) return -1;
+      else if (a < b) return 1;
+      return 0;
+    });
+*/

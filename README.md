@@ -26,5 +26,11 @@ I will substantiate this particular theme with the data from RDW. This organizat
 
 Later in the wiki, I will specify to what subject I will hone towards in my research.
 
+## Concept
+
+My current concept, idea, research is about electric vehicles, specifically _**Which electric vehicles have an action radius of +250KM? How does this differ per car manufacturer?**_
+
+[Read more about it in the wiki](/wiki/research)
+
 ## License
 This repository is licensed as [MIT](license) by [Nathan Bommezijn](https://github.com/dewarian), 2020.

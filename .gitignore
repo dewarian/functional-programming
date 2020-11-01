@@ -1,4 +1,4 @@
-/data
-/secret_data
+*/data
+*/secret_data
 .DS_STORE
-node_modules
+*/node_modules

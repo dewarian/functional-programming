@@ -4,8 +4,7 @@
   "description": "HvA CMD Information Design TechTrack course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    // "dev": "nodemon"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",

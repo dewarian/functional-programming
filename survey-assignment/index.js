@@ -57,7 +57,10 @@ const cleanData = scrubData.map((location) => {
   return location
   .replace('(', '')
   .replace(')', '')
-  .replace(/\.?\d+.\d+(\.)/, ',')
+  // .replace(/([\.]*.[^.]*)/, ',')
+  // .replace(/(\d{3})\./, ',')
+  // .replace(/((\d{0})\.)/, ',')
+  .replace(/\.?((\d{0})\.)\s/, ', ')
 })
 
 console.log(cleanData)

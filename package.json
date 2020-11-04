@@ -20,7 +20,6 @@
     "node-fetch": "^2.6.1"
   },
   "devDependencies": {
-    "live-server": "^1.2.1",
-    "nodemon": "^2.0.6"
+    "live-server": "^1.2.1"
   }
 }

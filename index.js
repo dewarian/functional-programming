@@ -1,6 +1,7 @@
 const {
     default: fetch
 } = require("node-fetch");
+const fs = require('fs');
 
 console.log('Windows are you still complaining?');
 parseData()
@@ -25,5 +26,8 @@ async function parseData() {
         vehicle.kenteken = connectFuelType;
         return vehicle
     })
+    // console.log(result);
     console.log(result);
+    // write json object to file. what file, stringify object, no replaces, add a tab (or 4 spaces for those weird ones)
+    fs.writeFileSync('./result.json', JSON.stringify(result, null, 4));
 }
